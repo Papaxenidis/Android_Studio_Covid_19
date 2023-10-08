@@ -1,5 +1,5 @@
 # Android_Studio_Covid_19
-A project for listing Covid-19 patients.I used Firebase-Database but unfortanelly it expired.I uploaded the code either way.
+A project for listing Covid-19 patients.I used Firebase-Database that may be outdated. You can see the UI below and also check the code at the master branch.
 
 
 ![Screenshot from 2021-11-02 18-09-16](https://user-images.githubusercontent.com/36454034/140128483-4a094a1e-0656-4e41-a384-59ccfc0fbd57.png)
